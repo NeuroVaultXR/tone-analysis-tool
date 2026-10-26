@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+pdf/*
+!pdf/.gitkeep
+*.pdf
+Positive.txt
+Negative.txt
+Uncertainty.txt
+Litigious.txt
+Strong_Modal.txt
+Weak_Modal.txt
+Constraining.txt
+Complexity.txt
